@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.homepage {
+  display: flex;
+};
+
+.formbox {
+  border: 5px solid red;
+  display: flex;
+  flex-direction: column;
+}
